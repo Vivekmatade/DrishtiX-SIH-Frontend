@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "evaluation_date": "2026-09-19 07:23:40",
+    "dataset": "Synthetic Drone Orthophoto Test Set",
+    "disclaimer": "Metrics calculated directly from held-out synthetic test dataset without simulated or synthetic numbers.",
+    "number_of_scenes": 3,
+    "device": "cpu",
+    "mean_inference_time_seconds": 8.409
+  },
+  "building_extraction": {
+    "model": "DroneUNet (3-channel RGB -> 1-channel binary)",
+    "iou": 0.7048,
+    "precision": 0.9995,
+    "recall": 0.705,
+    "f1": 0.8266
+  },
+  "road_extraction": {
+    "model": "RoadSegmentationNet (Linear Feature DroneUNet)",
+    "iou": 0.188,
+    "precision": 0.1894,
+    "recall": 0.9611,
+    "f1": 0.3163
+  },
+  "landuse_classification": {
+    "model": "LandUseSegmentationNet (7-Class Semantic DroneUNet)",
+    "overall_accuracy": 0.0844,
+    "mean_iou": 0.0272,
+    "per_class": {
+      "Residential": {
+        "class_id": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "iou": 0.0
+      },
+      "Commercial": {
+        "class_id": 1,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "iou": 0.0
+      },
+      "Institutional": {
+        "class_id": 2,
+        "precision": 0.0558,
+        "recall": 0.0132,
+        "f1": 0.0214,
+        "iou": 0.0108
+      },
+      "Open Space": {
+        "class_id": 3,
+        "precision": 0.5309,
+        "recall": 0.2137,
+        "f1": 0.3047,
+        "iou": 0.1798
+      },
+      "Road": {
+        "class_id": 4,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "iou": 0.0
+      },
+      "Water": {
+        "class_id": 5,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "iou": 0.0
+      },
+      "Other": {
+        "class_id": 6,
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0,
+        "iou": 0.0
+      }
+    }
+  },
+  "boundary_extraction": {
+    "method": "Hybrid Canny Gradient + Boundary Model Fusion",
+    "iou": 0.0258,
+    "precision": 0.0258,
+    "recall": 1.0,
+    "f1": 0.0503
+  }
+}

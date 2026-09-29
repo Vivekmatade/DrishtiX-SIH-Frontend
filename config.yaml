@@ -1,0 +1,69 @@
+# AI Feature Extraction Pipeline Configuration
+
+project:
+  name: "Drone-based AI Feature Extraction Pipeline"
+  version: "1.0.0"
+  ownership: "Developed the AI-based feature extraction pipeline for building footprints, roads, land-use and parcel-boundary indicators from high-resolution drone imagery."
+
+data:
+  raw_dir: "data/raw"
+  synthetic_dir: "data/synthetic"
+  processed_dir: "data/processed"
+  output_dir: "data/outputs"
+  train_dir: "data/synthetic/train"
+  val_dir: "data/synthetic/val"
+  test_dir: "data/synthetic/test"
+
+geospatial:
+  default_crs: "EPSG:32643"  # UTM Zone 43N (Metric coordinates)
+  pixel_resolution: 0.1       # 10 cm per pixel (0.1m ground sampling distance)
+  tile_size: 512              # Processing tile width/height in pixels
+
+training:
+  batch_size: 4
+  epochs: 8
+  learning_rate: 0.001
+  device: "cpu"               # Automatically falls back to cpu if cuda unavailable
+  num_workers: 0
+
+models:
+  building:
+    model_dir: "models/building"
+    checkpoint_path: "models/building/best_building_model.pth"
+    threshold: 0.5
+    min_area_m2: 15.0         # Minimum footprint size in square meters
+    simplify_tolerance: 0.3    # Polygon Douglas-Peucker simplification tolerance (meters)
+  
+  road:
+    model_dir: "models/road"
+    checkpoint_path: "models/road/best_road_model.pth"
+    threshold: 0.45
+    min_length_m: 10.0        # Minimum corridor/centerline length in meters
+    simplify_tolerance: 0.4
+  
+  landuse:
+    model_dir: "models/landuse"
+    checkpoint_path: "models/landuse/best_landuse_model.pth"
+    num_classes: 7
+    min_region_area_m2: 30.0
+    classes:
+      0: "Residential"
+      1: "Commercial"
+      2: "Institutional"
+      3: "Open Space"
+      4: "Road"
+      5: "Water"
+      6: "Other"
+  
+  boundary:
+    model_dir: "models/boundary"
+    checkpoint_path: "models/boundary/best_boundary_model.pth"
+    canny_low: 40
+    canny_high: 120
+    min_line_length_m: 5.0
+    disclaimer: "AI-derived boundary indicators intended for downstream parcel generation. Not legally valid cadastral boundaries."
+
+inference:
+  batch_size: 1
+  save_visualizations: true
+  export_format: "GeoJSON"
