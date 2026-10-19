@@ -23,3 +23,5 @@ data/processed/*
 !data/processed/.gitkeep
 data/outputs/*
 !data/outputs/.gitkeep
+data/sit_tumkur/*.png
+data/sit_tumkur/*.jpg
