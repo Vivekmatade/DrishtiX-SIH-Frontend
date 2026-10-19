@@ -1,0 +1,29 @@
+{
+  "scene_id": "scene_001",
+  "crs": "EPSG:32643",
+  "width": 512,
+  "height": 512,
+  "resolution_m": 0.1,
+  "bounds_utm": [
+    701000.0,
+    3100948.8,
+    701051.2,
+    3101000.0
+  ],
+  "transform": [
+    0.1,
+    0.0,
+    701000.0,
+    0.0,
+    -0.1,
+    3101000.0
+  ],
+  "buildings_count": 11,
+  "files": {
+    "orthophoto": "data/synthetic/val\\scene_001\\orthophoto.tif",
+    "building_mask": "data/synthetic/val\\scene_001\\building_mask.png",
+    "road_mask": "data/synthetic/val\\scene_001\\road_mask.png",
+    "landuse_raster": "data/synthetic/val\\scene_001\\landuse_raster.png",
+    "boundary_mask": "data/synthetic/val\\scene_001\\boundary_mask.png"
+  }
+}

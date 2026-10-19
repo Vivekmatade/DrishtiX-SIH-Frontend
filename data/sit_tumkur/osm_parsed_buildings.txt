@@ -1,0 +1,583 @@
+Node: Tumakuru | {'name': 'Tumakuru', 'name:kn': 'ತುಮಕೂರು', 'public_transport': 'stop_position'} at (13.3333403, 77.1030894)
+Node: Mahaganga Ear,Nose,Throat and Neck Centre | {'addr:district': 'Tumakuru', 'addr:full': 'Sit College Bank Gate,Gongotri Main Road', 'addr:postcode': '572101', 'addr:state': 'Karnataka', 'amenity': 'clinic', 'name': 'Mahaganga Ear,Nose,Throat and Neck Centre', 'source': 'OpenGovernmentData'} at (13.3286266, 77.1245686)
+Node: Royal Veternary Clinic | {'addr:district': 'Tumakuru', 'addr:full': 'Gangotri Road, Tumakuru', 'addr:postcode': '572103', 'addr:state': 'Karnataka', 'amenity': 'clinic', 'name': 'Royal Veternary Clinic', 'source': 'Local Knowledge'} at (13.3287951, 77.1257226)
+Node: Siddaganga Institute of Technology | {'addr:full': 'Tumakuru, Bengaluru - Honnavar Rd, Chandana Complex, Tumakuru, Karnataka', 'addr:state': 'Karnataka', 'name': 'Siddaganga Institute of Technology', 'name:kn': 'ಸಿದ್ದಗಂಗಾ ತಾಂತ್ರಿಕ ವಿದ್ಯಾಲಯ', 'office': 'yes'} at (13.3268979, 77.1260948)
+Node: cafe | {'amenity': 'cafe'} at (13.3275495, 77.124982)
+Node: More | {'addr:street': 'SIT Back Gate', 'name': 'More', 'shop': 'department_store'} at (13.3286123, 77.1238082)
+Node: SIT juice center | {'addr:street': 'SIT Back Gate', 'name': 'SIT juice center', 'shop': 'beverages'} at (13.3285151, 77.125411)
+Node: S.I.T PG | {'name': 'S.I.T PG', 'tourism': 'guest_house'} at (13.3261398, 77.1286122)
+Way: SIT Back Gate | {'highway': 'tertiary', 'maxspeed': '50', 'name': 'SIT Back Gate'} at lat=13.330427, lon=77.126069
+Way: Siddaganga Institute of Technology | {'amenity': 'university', 'education': 'university', 'name': 'Siddaganga Institute of Technology', 'name:kn': 'ಸಿದ್ದಗಂಗಾ ತಾಂತ್ರಿಕ ವಿದ್ಯಾಲಯ', 'website': 'http://www.sit.ac.in'} at lat=13.327968, lon=77.126996
+Way: unnamed | {'highway': 'residential'} at lat=13.329311, lon=77.128854
+Way: unnamed | {'highway': 'residential'} at lat=13.327204, lon=77.128908
+Way: unnamed | {'highway': 'residential'} at lat=13.328864, lon=77.128105
+Way: unnamed | {'highway': 'residential'} at lat=13.330475, lon=77.124638
+Way: unnamed | {'highway': 'residential'} at lat=13.328870, lon=77.124183
+Way: unnamed | {'highway': 'residential'} at lat=13.329209, lon=77.128605
+Way: unnamed | {'highway': 'residential'} at lat=13.328083, lon=77.127931
+Way: unnamed | {'highway': 'residential'} at lat=13.328782, lon=77.125128
+Way: unnamed | {'highway': 'residential'} at lat=13.328576, lon=77.127693
+Way: unnamed | {'highway': 'residential'} at lat=13.327601, lon=77.129827
+Way: unnamed | {'highway': 'residential'} at lat=13.329792, lon=77.124262
+Way: unnamed | {'highway': 'residential'} at lat=13.328020, lon=77.129880
+Way: unnamed | {'highway': 'residential'} at lat=13.328509, lon=77.128187
+Way: unnamed | {'highway': 'residential'} at lat=13.329116, lon=77.124673
+Way: unnamed | {'highway': 'residential'} at lat=13.329503, lon=77.125152
+Way: unnamed | {'highway': 'residential'} at lat=13.328174, lon=77.128199
+Way: unnamed | {'highway': 'residential'} at lat=13.327985, lon=77.127723
+Way: unnamed | {'highway': 'residential'} at lat=13.327766, lon=77.128228
+Way: unnamed | {'highway': 'residential'} at lat=13.327702, lon=77.128777
+Way: unnamed | {'highway': 'residential'} at lat=13.328308, lon=77.129591
+Way: unnamed | {'highway': 'residential'} at lat=13.326797, lon=77.129077
+Way: Maruthi Nagar Road | {'highway': 'unclassified', 'name': 'Maruthi Nagar Road', 'name:kn': 'ಮಾರುತಿನಗರ ರಸ್ತೆ'} at lat=13.324461, lon=77.123332
+Way: SIT back gate road | {'highway': 'residential', 'name': 'SIT back gate road'} at lat=13.328119, lon=77.124570
+Way: SIT Back Gate | {'highway': 'tertiary', 'maxspeed': '50', 'name': 'SIT Back Gate'} at lat=13.329055, lon=77.120412
+Way: unnamed | {'highway': 'residential'} at lat=13.328105, lon=77.127669
+Way: unnamed | {'highway': 'residential'} at lat=13.328920, lon=77.128850
+Way: unnamed | {'highway': 'residential'} at lat=13.328515, lon=77.128505
+Way: unnamed | {'highway': 'residential'} at lat=13.329703, lon=77.124670
+Way: unnamed | {'highway': 'residential'} at lat=13.328453, lon=77.127379
+Way: Glolden Jublie Building | {'building': 'yes', 'name': 'Glolden Jublie Building'} at lat=13.326357, lon=77.125299
+Way: Bio Technology Block | {'building': 'yes', 'name': 'Bio Technology Block'} at lat=13.327424, lon=77.124461
+Way: Administration Block | {'building': 'yes', 'name': 'Administration Block', 'name:kn': 'ಆಡಳಿತ ಕಛೇರಿ', 'office': 'yes'} at lat=13.326913, lon=77.126183
+Way: yes | {'building': 'yes'} at lat=13.323973, lon=77.125356
+Way: yes | {'building': 'yes'} at lat=13.323985, lon=77.125057
+Way: yes | {'building': 'yes'} at lat=13.324060, lon=77.125176
+Way: yes | {'building': 'yes'} at lat=13.328324, lon=77.125023
+Way: yes | {'building': 'yes'} at lat=13.328102, lon=77.125734
+Way: yes | {'building': 'yes'} at lat=13.328809, lon=77.125811
+Way: yes | {'building': 'yes'} at lat=13.329459, lon=77.124680
+Way: yes | {'building': 'yes'} at lat=13.328317, lon=77.124851
+Way: yes | {'building': 'yes'} at lat=13.329473, lon=77.124478
+Way: yes | {'building': 'yes'} at lat=13.328282, lon=77.125779
+Way: yes | {'building': 'yes'} at lat=13.328162, lon=77.125465
+Way: yes | {'building': 'yes'} at lat=13.328793, lon=77.125931
+Way: yes | {'building': 'yes'} at lat=13.328193, lon=77.124911
+Way: yes | {'building': 'yes'} at lat=13.328175, lon=77.125736
+Way: yes | {'building': 'yes'} at lat=13.328198, lon=77.124835
+Way: yes | {'building': 'yes'} at lat=13.329466, lon=77.125606
+Way: yes | {'building': 'yes'} at lat=13.328267, lon=77.126098
+Way: yes | {'building': 'yes'} at lat=13.329538, lon=77.124493
+Way: yes | {'building': 'yes'} at lat=13.328163, lon=77.125612
+Way: yes | {'building': 'yes'} at lat=13.328224, lon=77.124641
+Way: yes | {'building': 'yes'} at lat=13.328306, lon=77.125620
+Way: yes | {'building': 'yes'} at lat=13.329543, lon=77.124698
+Way: yes | {'building': 'yes'} at lat=13.328173, lon=77.125326
+Way: yes | {'building': 'yes'} at lat=13.328306, lon=77.124941
+Way: yes | {'building': 'yes'} at lat=13.328815, lon=77.125715
+Way: yes | {'building': 'yes'} at lat=13.328279, lon=77.125994
+Way: yes | {'building': 'yes'} at lat=13.328767, lon=77.126159
+Way: yes | {'building': 'yes'} at lat=13.329392, lon=77.124448
+Way: yes | {'building': 'yes'} at lat=13.328208, lon=77.124758
+Way: yes | {'building': 'yes'} at lat=13.328346, lon=77.124709
+Way: yes | {'building': 'yes'} at lat=13.328180, lon=77.125041
+Way: yes | {'building': 'yes'} at lat=13.328141, lon=77.125851
+Way: yes | {'building': 'yes'} at lat=13.329395, lon=77.124634
+Way: yes | {'building': 'yes'} at lat=13.329261, lon=77.124610
+Way: yes | {'building': 'yes'} at lat=13.329022, lon=77.123774
+Way: yes | {'building': 'yes'} at lat=13.329526, lon=77.125468
+Way: yes | {'building': 'yes'} at lat=13.329252, lon=77.124404
+Way: yes | {'building': 'yes'} at lat=13.329250, lon=77.124504
+Way: yes | {'building': 'yes'} at lat=13.329276, lon=77.124333
+Way: yes | {'building': 'yes'} at lat=13.329290, lon=77.124112
+Way: yes | {'building': 'yes'} at lat=13.329461, lon=77.123968
+Way: yes | {'building': 'yes'} at lat=13.329300, lon=77.123940
+Way: yes | {'building': 'yes'} at lat=13.329475, lon=77.124112
+Way: yes | {'building': 'yes'} at lat=13.329389, lon=77.124085
+Way: yes | {'building': 'yes'} at lat=13.329270, lon=77.124726
+Way: yes | {'building': 'yes'} at lat=13.329386, lon=77.123940
+Way: yes | {'building': 'yes'} at lat=13.329298, lon=77.124012
+Way: yes | {'building': 'yes'} at lat=13.324727, lon=77.124583
+Way: yes | {'building': 'yes'} at lat=13.325435, lon=77.123654
+Way: yes | {'building': 'yes'} at lat=13.324684, lon=77.124697
+Way: yes | {'building': 'yes'} at lat=13.325103, lon=77.123774
+Way: yes | {'building': 'yes'} at lat=13.324084, lon=77.127330
+Way: yes | {'building': 'yes'} at lat=13.325250, lon=77.123427
+Way: yes | {'building': 'yes'} at lat=13.324175, lon=77.127359
+Way: yes | {'building': 'yes'} at lat=13.325085, lon=77.124298
+Way: yes | {'building': 'yes'} at lat=13.325021, lon=77.123915
+Way: yes | {'building': 'yes'} at lat=13.324215, lon=77.127197
+Way: yes | {'building': 'yes'} at lat=13.324869, lon=77.124301
+Way: yes | {'building': 'yes'} at lat=13.325359, lon=77.123457
+Way: yes | {'building': 'yes'} at lat=13.325459, lon=77.123521
+Way: yes | {'building': 'yes'} at lat=13.325021, lon=77.124451
+Way: yes | {'building': 'yes'} at lat=13.325132, lon=77.124204
+Way: yes | {'building': 'yes'} at lat=13.325332, lon=77.124078
+Way: yes | {'building': 'yes'} at lat=13.324734, lon=77.124270
+Way: yes | {'building': 'yes'} at lat=13.324905, lon=77.124217
+Way: yes | {'building': 'yes'} at lat=13.329496, lon=77.123461
+Way: yes | {'building': 'yes'} at lat=13.328637, lon=77.124861
+Way: yes | {'building': 'yes'} at lat=13.328793, lon=77.123548
+Way: yes | {'building': 'yes'} at lat=13.329453, lon=77.123638
+Way: yes | {'building': 'yes'} at lat=13.328836, lon=77.125392
+Way: yes | {'building': 'yes'} at lat=13.328656, lon=77.124491
+Way: yes | {'building': 'yes'} at lat=13.328619, lon=77.125813
+Way: yes | {'building': 'yes'} at lat=13.328591, lon=77.124171
+Way: yes | {'building': 'yes'} at lat=13.328859, lon=77.125249
+Way: yes | {'building': 'yes'} at lat=13.328944, lon=77.125476
+Way: yes | {'building': 'yes'} at lat=13.329027, lon=77.125825
+Way: yes | {'building': 'yes'} at lat=13.328982, lon=77.125121
+Way: yes | {'building': 'yes'} at lat=13.328834, lon=77.123738
+Way: yes | {'building': 'yes'} at lat=13.328593, lon=77.126141
+Way: yes | {'building': 'yes'} at lat=13.328903, lon=77.126039
+Way: yes | {'building': 'yes'} at lat=13.329061, lon=77.124373
+Way: yes | {'building': 'yes'} at lat=13.328954, lon=77.124434
+Way: yes | {'building': 'yes'} at lat=13.328927, lon=77.124599
+Way: yes | {'building': 'yes'} at lat=13.328629, lon=77.124327
+Way: yes | {'building': 'yes'} at lat=13.328910, lon=77.124749
+Way: yes | {'building': 'yes'} at lat=13.329082, lon=77.126086
+Way: yes | {'building': 'yes'} at lat=13.327797, lon=77.125767
+Way: yes | {'building': 'yes'} at lat=13.329213, lon=77.126030
+Way: yes | {'building': 'yes'} at lat=13.329085, lon=77.124051
+Way: yes | {'building': 'yes'} at lat=13.327792, lon=77.125861
+Way: yes | {'building': 'yes'} at lat=13.328806, lon=77.124253
+Way: yes | {'building': 'yes'} at lat=13.329347, lon=77.123614
+Way: yes | {'building': 'yes'} at lat=13.329489, lon=77.123804
+Way: yes | {'building': 'yes'} at lat=13.328718, lon=77.124496
+Way: yes | {'building': 'yes'} at lat=13.329280, lon=77.125781
+Way: yes | {'building': 'yes'} at lat=13.328774, lon=77.124657
+Way: yes | {'building': 'yes'} at lat=13.329260, lon=77.126243
+Way: yes | {'building': 'yes'} at lat=13.328761, lon=77.124789
+Way: yes | {'building': 'yes'} at lat=13.327977, lon=77.125383
+Way: yes | {'building': 'yes'} at lat=13.328948, lon=77.124353
+Way: yes | {'building': 'yes'} at lat=13.328637, lon=77.125682
+Way: yes | {'building': 'yes'} at lat=13.328826, lon=77.123854
+Way: yes | {'building': 'yes'} at lat=13.328724, lon=77.124322
+Way: yes | {'building': 'yes'} at lat=13.329001, lon=77.124892
+Way: yes | {'building': 'yes'} at lat=13.328930, lon=77.126196
+Way: yes | {'building': 'yes'} at lat=13.328590, lon=77.124482
+Way: yes | {'building': 'yes'} at lat=13.329041, lon=77.125746
+Way: yes | {'building': 'yes'} at lat=13.328995, lon=77.126047
+Way: yes | {'building': 'yes'} at lat=13.328907, lon=77.123601
+Way: yes | {'building': 'yes'} at lat=13.328467, lon=77.126081
+Way: yes | {'building': 'yes'} at lat=13.329068, lon=77.124194
+Way: yes | {'building': 'yes'} at lat=13.328964, lon=77.125289
+Way: yes | {'building': 'yes'} at lat=13.329016, lon=77.124770
+Way: yes | {'building': 'yes'} at lat=13.329452, lon=77.126328
+Way: yes | {'building': 'yes'} at lat=13.329032, lon=77.126189
+Way: yes | {'building': 'yes'} at lat=13.329030, lon=77.124636
+Way: yes | {'building': 'yes'} at lat=13.329035, lon=77.124531
+Way: yes | {'building': 'yes'} at lat=13.329049, lon=77.124453
+Way: yes | {'building': 'yes'} at lat=13.329078, lon=77.124119
+Way: yes | {'building': 'yes'} at lat=13.328530, lon=77.125411
+Way: yes | {'building': 'yes'} at lat=13.327935, lon=77.125963
+Way: yes | {'building': 'yes'} at lat=13.327855, lon=77.124789
+Way: yes | {'building': 'yes'} at lat=13.329110, lon=77.123973
+Way: yes | {'building': 'yes'} at lat=13.329093, lon=77.123898
+Way: yes | {'building': 'yes'} at lat=13.328983, lon=77.124041
+Way: yes | {'building': 'yes'} at lat=13.328813, lon=77.124076
+Way: yes | {'building': 'yes'} at lat=13.328665, lon=77.124029
+Way: yes | {'building': 'yes'} at lat=13.328735, lon=77.124185
+Way: yes | {'building': 'yes'} at lat=13.328808, lon=77.124149
+Way: yes | {'building': 'yes'} at lat=13.328796, lon=77.124428
+Way: yes | {'building': 'yes'} at lat=13.329354, lon=77.123797
+Way: yes | {'building': 'yes'} at lat=13.328925, lon=77.123485
+Way: yes | {'building': 'yes'} at lat=13.328668, lon=77.125103
+Way: yes | {'building': 'yes'} at lat=13.328671, lon=77.125251
+Way: yes | {'building': 'yes'} at lat=13.328958, lon=77.123961
+Way: yes | {'building': 'yes'} at lat=13.328818, lon=77.123987
+Way: yes | {'building': 'yes'} at lat=13.328744, lon=77.124061
+Way: yes | {'building': 'yes'} at lat=13.328800, lon=77.124353
+Way: yes | {'building': 'yes'} at lat=13.328962, lon=77.124214
+Way: yes | {'building': 'yes'} at lat=13.329072, lon=77.124282
+Way: yes | {'building': 'yes'} at lat=13.329026, lon=77.123584
+Way: yes | {'building': 'yes'} at lat=13.328684, lon=77.123527
+Way: yes | {'building': 'yes'} at lat=13.328789, lon=77.124502
+Way: yes | {'building': 'yes'} at lat=13.328041, lon=77.124454
+Way: yes | {'building': 'yes'} at lat=13.328297, lon=77.125412
+Way: yes | {'building': 'yes'} at lat=13.328314, lon=77.125097
+Way: yes | {'building': 'yes'} at lat=13.328489, lon=77.125884
+Way: yes | {'building': 'yes'} at lat=13.328176, lon=77.125188
+Way: yes | {'building': 'yes'} at lat=13.327916, lon=77.123972
+Way: yes | {'building': 'yes'} at lat=13.328245, lon=77.123503
+Way: yes | {'building': 'yes'} at lat=13.328362, lon=77.123549
+Way: yes | {'building': 'yes'} at lat=13.329007, lon=77.125908
+Way: yes | {'building': 'yes'} at lat=13.328031, lon=77.123441
+Way: yes | {'building': 'yes'} at lat=13.329449, lon=77.124924
+Way: yes | {'building': 'yes'} at lat=13.328914, lon=77.125907
+Way: yes | {'building': 'yes'} at lat=13.328047, lon=77.124316
+Way: yes | {'building': 'yes'} at lat=13.328316, lon=77.125227
+Way: yes | {'building': 'yes'} at lat=13.328047, lon=77.123983
+Way: yes | {'building': 'yes'} at lat=13.328006, lon=77.124213
+Way: yes | {'building': 'yes'} at lat=13.327902, lon=77.124246
+Way: yes | {'building': 'yes'} at lat=13.327860, lon=77.124067
+Way: yes | {'building': 'yes'} at lat=13.328142, lon=77.124002
+Way: yes | {'building': 'yes'} at lat=13.329102, lon=77.125948
+Way: yes | {'building': 'yes'} at lat=13.328055, lon=77.124116
+Way: yes | {'building': 'yes'} at lat=13.329236, lon=77.124933
+Way: yes | {'building': 'yes'} at lat=13.329154, lon=77.125775
+Way: yes | {'building': 'yes'} at lat=13.328129, lon=77.123502
+Way: yes | {'building': 'yes'} at lat=13.327918, lon=77.127233
+Way: yes | {'building': 'yes'} at lat=13.328582, lon=77.124051
+Way: yes | {'building': 'yes'} at lat=13.329469, lon=77.125950
+Way: yes | {'building': 'yes'} at lat=13.328837, lon=77.127598
+Way: yes | {'building': 'yes'} at lat=13.328854, lon=77.127486
+Way: yes | {'building': 'yes'} at lat=13.327758, lon=77.128418
+Way: yes | {'building': 'yes'} at lat=13.326632, lon=77.129026
+Way: yes | {'building': 'yes'} at lat=13.327429, lon=77.127891
+Way: yes | {'building': 'yes'} at lat=13.329422, lon=77.125797
+Way: yes | {'building': 'yes'} at lat=13.329064, lon=77.128650
+Way: yes | {'building': 'yes'} at lat=13.329480, lon=77.126095
+Way: yes | {'building': 'yes'} at lat=13.329552, lon=77.129434
+Way: yes | {'building': 'yes'} at lat=13.327592, lon=77.128414
+Way: yes | {'building': 'yes'} at lat=13.329326, lon=77.129439
+Way: yes | {'building': 'yes'} at lat=13.328121, lon=77.123750
+Way: yes | {'building': 'yes'} at lat=13.326976, lon=77.128609
+Way: yes | {'building': 'yes'} at lat=13.329073, lon=77.129418
+Way: yes | {'building': 'yes'} at lat=13.326812, lon=77.129118
+Way: yes | {'building': 'yes'} at lat=13.328459, lon=77.128762
+Way: yes | {'building': 'yes'} at lat=13.328566, lon=77.127591
+Way: yes | {'building': 'yes'} at lat=13.327036, lon=77.128780
+Way: yes | {'building': 'yes'} at lat=13.328444, lon=77.129012
+Way: yes | {'building': 'yes'} at lat=13.328665, lon=77.127466
+Way: yes | {'building': 'yes'} at lat=13.329252, lon=77.125910
+Way: yes | {'building': 'yes'} at lat=13.328293, lon=77.127560
+Way: yes | {'building': 'yes'} at lat=13.328888, lon=77.128751
+Way: yes | {'building': 'yes'} at lat=13.327990, lon=77.123647
+Way: yes | {'building': 'yes'} at lat=13.328752, lon=77.127470
+Way: yes | {'building': 'yes'} at lat=13.327516, lon=77.128285
+Way: yes | {'building': 'yes'} at lat=13.327352, lon=77.128857
+Way: yes | {'building': 'yes'} at lat=13.328354, lon=77.124187
+Way: yes | {'building': 'yes'} at lat=13.328901, lon=77.129366
+Way: yes | {'building': 'yes'} at lat=13.328971, lon=77.128992
+Way: yes | {'building': 'yes'} at lat=13.327061, lon=77.127110
+Way: yes | {'building': 'yes'} at lat=13.327505, lon=77.128385
+Way: yes | {'building': 'yes'} at lat=13.327942, lon=77.127096
+Way: yes | {'building': 'yes'} at lat=13.327985, lon=77.123802
+Way: yes | {'building': 'yes'} at lat=13.328740, lon=77.127603
+Way: yes | {'building': 'yes'} at lat=13.327447, lon=77.127792
+Way: yes | {'building': 'yes'} at lat=13.327937, lon=77.127461
+Way: yes | {'building': 'yes'} at lat=13.327856, lon=77.128428
+Way: yes | {'building': 'yes'} at lat=13.327906, lon=77.127337
+Way: yes | {'building': 'yes'} at lat=13.329444, lon=77.129420
+Way: yes | {'building': 'yes'} at lat=13.329149, lon=77.128665
+Way: yes | {'building': 'yes'} at lat=13.328668, lon=77.124158
+Way: yes | {'building': 'yes'} at lat=13.329179, lon=77.129277
+Way: yes | {'building': 'yes'} at lat=13.327888, lon=77.123785
+Way: yes | {'building': 'yes'} at lat=13.327677, lon=77.128400
+Way: yes | {'building': 'yes'} at lat=13.326642, lon=77.128915
+Way: yes | {'building': 'yes'} at lat=13.327590, lon=77.128122
+Way: yes | {'building': 'yes'} at lat=13.327426, lon=77.127987
+Way: yes | {'building': 'yes'} at lat=13.326800, lon=77.128059
+Way: yes | {'building': 'yes'} at lat=13.327440, lon=77.127643
+Way: yes | {'building': 'yes'} at lat=13.328306, lon=77.127417
+Way: yes | {'building': 'yes'} at lat=13.326606, lon=77.129147
+Way: yes | {'building': 'yes'} at lat=13.327889, lon=77.128001
+Way: yes | {'building': 'yes'} at lat=13.326571, lon=77.129384
+Way: yes | {'building': 'yes'} at lat=13.328840, lon=77.129519
+Way: yes | {'building': 'yes'} at lat=13.326542, lon=77.129523
+Way: yes | {'building': 'yes'} at lat=13.328479, lon=77.128581
+Way: yes | {'building': 'yes'} at lat=13.328578, lon=77.127453
+Way: yes | {'building': 'yes'} at lat=13.328211, lon=77.127423
+Way: yes | {'building': 'yes'} at lat=13.328399, lon=77.127421
+Way: yes | {'building': 'yes'} at lat=13.326889, lon=77.128699
+Way: yes | {'building': 'yes'} at lat=13.328456, lon=77.128883
+Way: yes | {'building': 'yes'} at lat=13.328386, lon=77.127543
+Way: yes | {'building': 'yes'} at lat=13.329045, lon=77.128765
+Way: yes | {'building': 'yes'} at lat=13.326930, lon=77.128491
+Way: yes | {'building': 'yes'} at lat=13.328654, lon=77.127588
+Way: yes | {'building': 'yes'} at lat=13.327610, lon=77.128288
+Way: yes | {'building': 'yes'} at lat=13.326848, lon=77.128919
+Way: yes | {'building': 'yes'} at lat=13.328117, lon=77.127426
+Way: yes | {'building': 'yes'} at lat=13.328104, lon=77.127567
+Way: yes | {'building': 'yes'} at lat=13.328437, lon=77.129122
+Way: yes | {'building': 'yes'} at lat=13.326941, lon=77.128949
+Way: yes | {'building': 'yes'} at lat=13.328204, lon=77.127573
+Way: yes | {'building': 'yes'} at lat=13.327315, lon=77.129309
+Way: yes | {'building': 'yes'} at lat=13.327332, lon=77.129095
+Way: yes | {'building': 'yes'} at lat=13.329177, lon=77.129121
+Way: yes | {'building': 'yes'} at lat=13.328424, lon=77.129292
+Way: yes | {'building': 'yes'} at lat=13.329500, lon=77.125845
+Way: yes | {'building': 'yes'} at lat=13.329467, lon=77.127199
+Way: yes | {'building': 'yes'} at lat=13.329078, lon=77.129133
+Way: yes | {'building': 'yes'} at lat=13.329414, lon=77.127491
+Way: yes | {'building': 'yes'} at lat=13.327197, lon=77.127951
+Way: yes | {'building': 'yes'} at lat=13.328255, lon=77.129418
+Way: yes | {'building': 'yes'} at lat=13.329155, lon=77.128990
+Way: yes | {'building': 'yes'} at lat=13.328616, lon=77.127974
+Way: yes | {'building': 'yes'} at lat=13.329374, lon=77.127743
+Way: yes | {'building': 'yes'} at lat=13.329029, lon=77.128078
+Way: yes | {'building': 'yes'} at lat=13.328689, lon=77.127974
+Way: yes | {'building': 'yes'} at lat=13.328684, lon=77.127245
+Way: yes | {'building': 'yes'} at lat=13.329383, lon=77.127653
+Way: yes | {'building': 'yes'} at lat=13.328769, lon=77.127265
+Way: yes | {'building': 'yes'} at lat=13.327214, lon=77.127708
+Way: yes | {'building': 'yes'} at lat=13.328325, lon=77.128531
+Way: yes | {'building': 'yes'} at lat=13.328935, lon=77.128085
+Way: yes | {'building': 'yes'} at lat=13.328756, lon=77.128407
+Way: yes | {'building': 'yes'} at lat=13.328056, lon=77.128630
+Way: yes | {'building': 'yes'} at lat=13.328046, lon=77.128848
+Way: yes | {'building': 'yes'} at lat=13.328480, lon=77.128383
+Way: yes | {'building': 'yes'} at lat=13.329112, lon=77.128351
+Way: yes | {'building': 'yes'} at lat=13.328196, lon=77.127091
+Way: yes | {'building': 'yes'} at lat=13.327849, lon=77.128709
+Way: yes | {'building': 'yes'} at lat=13.329337, lon=77.127975
+Way: yes | {'building': 'yes'} at lat=13.329250, lon=77.128371
+Way: yes | {'building': 'yes'} at lat=13.327743, lon=77.128561
+Way: yes | {'building': 'yes'} at lat=13.328379, lon=77.127754
+Way: yes | {'building': 'yes'} at lat=13.327716, lon=77.128847
+Way: yes | {'building': 'yes'} at lat=13.328632, lon=77.127760
+Way: yes | {'building': 'yes'} at lat=13.327506, lon=77.128557
+Way: yes | {'building': 'yes'} at lat=13.327476, lon=77.128676
+Way: yes | {'building': 'yes'} at lat=13.327625, lon=77.128839
+Way: yes | {'building': 'yes'} at lat=13.328093, lon=77.128192
+Way: yes | {'building': 'yes'} at lat=13.328740, lon=77.128098
+Way: yes | {'building': 'yes'} at lat=13.328313, lon=77.128708
+Way: yes | {'building': 'yes'} at lat=13.329442, lon=77.127366
+Way: yes | {'building': 'yes'} at lat=13.328350, lon=77.128362
+Way: yes | {'building': 'yes'} at lat=13.328637, lon=77.128118
+Way: yes | {'building': 'yes'} at lat=13.327872, lon=77.128873
+Way: yes | {'building': 'yes'} at lat=13.327787, lon=77.128869
+Way: yes | {'building': 'yes'} at lat=13.328050, lon=77.128696
+Way: yes | {'building': 'yes'} at lat=13.328280, lon=77.129072
+Way: yes | {'building': 'yes'} at lat=13.329370, lon=77.129119
+Way: yes | {'building': 'yes'} at lat=13.328611, lon=77.129393
+Way: yes | {'building': 'yes'} at lat=13.328031, lon=77.128970
+Way: yes | {'building': 'yes'} at lat=13.329066, lon=77.127630
+Way: yes | {'building': 'yes'} at lat=13.328155, lon=77.129365
+Way: yes | {'building': 'yes'} at lat=13.326687, lon=77.128726
+Way: yes | {'building': 'yes'} at lat=13.328263, lon=77.128002
+Way: yes | {'building': 'yes'} at lat=13.328779, lon=77.127979
+Way: yes | {'building': 'yes'} at lat=13.329403, lon=77.127561
+Way: yes | {'building': 'yes'} at lat=13.327739, lon=77.127133
+Way: yes | {'building': 'yes'} at lat=13.328888, lon=77.127306
+Way: yes | {'building': 'yes'} at lat=13.327199, lon=77.127853
+Way: yes | {'building': 'yes'} at lat=13.327655, lon=77.127957
+Way: yes | {'building': 'yes'} at lat=13.328188, lon=77.129004
+Way: yes | {'building': 'yes'} at lat=13.327918, lon=77.129503
+Way: yes | {'building': 'yes'} at lat=13.328245, lon=77.129521
+Way: yes | {'building': 'yes'} at lat=13.327060, lon=77.129251
+Way: yes | {'building': 'yes'} at lat=13.328547, lon=77.127058
+Way: yes | {'building': 'yes'} at lat=13.327680, lon=77.127790
+Way: yes | {'building': 'yes'} at lat=13.327971, lon=77.129258
+Way: yes | {'building': 'yes'} at lat=13.329143, lon=77.128130
+Way: yes | {'building': 'yes'} at lat=13.328947, lon=77.128622
+Way: yes | {'building': 'yes'} at lat=13.329368, lon=77.127819
+Way: yes | {'building': 'yes'} at lat=13.328760, lon=77.127067
+Way: yes | {'building': 'yes'} at lat=13.328066, lon=77.128524
+Way: yes | {'building': 'yes'} at lat=13.327930, lon=77.129391
+Way: yes | {'building': 'yes'} at lat=13.328585, lon=77.128399
+Way: yes | {'building': 'yes'} at lat=13.328670, lon=77.128409
+Way: yes | {'building': 'yes'} at lat=13.327853, lon=77.128597
+Way: yes | {'building': 'yes'} at lat=13.329354, lon=77.127898
+Way: yes | {'building': 'yes'} at lat=13.327954, lon=77.128626
+Way: yes | {'building': 'yes'} at lat=13.327708, lon=77.127387
+Way: yes | {'building': 'yes'} at lat=13.328508, lon=77.128265
+Way: yes | {'building': 'yes'} at lat=13.328126, lon=77.127230
+Way: yes | {'building': 'yes'} at lat=13.328241, lon=77.128364
+Way: yes | {'building': 'yes'} at lat=13.328221, lon=77.127241
+Way: yes | {'building': 'yes'} at lat=13.327739, lon=77.128674
+Way: yes | {'building': 'yes'} at lat=13.329327, lon=77.128082
+Way: yes | {'building': 'yes'} at lat=13.327225, lon=77.127612
+Way: yes | {'building': 'yes'} at lat=13.328281, lon=77.128209
+Way: yes | {'building': 'yes'} at lat=13.328324, lon=77.128620
+Way: yes | {'building': 'yes'} at lat=13.328271, lon=77.127864
+Way: yes | {'building': 'yes'} at lat=13.328387, lon=77.128253
+Way: yes | {'building': 'yes'} at lat=13.327611, lon=77.128572
+Way: yes | {'building': 'yes'} at lat=13.328262, lon=77.129225
+Way: yes | {'building': 'yes'} at lat=13.328288, lon=77.128941
+Way: yes | {'building': 'yes'} at lat=13.328002, lon=77.128188
+Way: yes | {'building': 'yes'} at lat=13.328297, lon=77.128811
+Way: yes | {'building': 'yes'} at lat=13.329434, lon=77.127427
+Way: yes | {'building': 'yes'} at lat=13.327950, lon=77.128894
+Way: yes | {'building': 'yes'} at lat=13.328097, lon=77.128032
+Way: yes | {'building': 'yes'} at lat=13.329454, lon=77.127288
+Way: yes | {'building': 'yes'} at lat=13.328509, lon=77.127886
+Way: yes | {'building': 'yes'} at lat=13.329591, lon=77.128181
+Way: yes | {'building': 'yes'} at lat=13.329592, lon=77.128500
+Way: yes | {'building': 'yes'} at lat=13.324435, lon=77.128267
+Way: yes | {'building': 'yes'} at lat=13.324174, lon=77.128918
+Way: yes | {'building': 'yes'} at lat=13.324731, lon=77.127839
+Way: yes | {'building': 'yes'} at lat=13.324748, lon=77.127996
+Way: yes | {'building': 'yes'} at lat=13.325012, lon=77.128938
+Way: yes | {'building': 'yes'} at lat=13.324310, lon=77.129237
+Way: yes | {'building': 'yes'} at lat=13.325262, lon=77.128990
+Way: yes | {'building': 'yes'} at lat=13.325452, lon=77.127531
+Way: yes | {'building': 'yes'} at lat=13.324500, lon=77.128909
+Way: yes | {'building': 'yes'} at lat=13.324557, lon=77.127937
+Way: yes | {'building': 'yes'} at lat=13.325289, lon=77.128301
+Way: yes | {'building': 'yes'} at lat=13.325388, lon=77.128133
+Way: yes | {'building': 'yes'} at lat=13.325168, lon=77.129343
+Way: yes | {'building': 'yes'} at lat=13.324779, lon=77.128645
+Way: yes | {'building': 'yes'} at lat=13.325428, lon=77.128442
+Way: yes | {'building': 'yes'} at lat=13.325310, lon=77.128642
+Way: yes | {'building': 'yes'} at lat=13.325101, lon=77.128940
+Way: yes | {'building': 'yes'} at lat=13.325260, lon=77.128449
+Way: yes | {'building': 'yes'} at lat=13.324427, lon=77.128817
+Way: yes | {'building': 'yes'} at lat=13.324535, lon=77.128554
+Way: yes | {'building': 'yes'} at lat=13.325122, lon=77.128795
+Way: yes | {'building': 'yes'} at lat=13.324349, lon=77.128405
+Way: yes | {'building': 'yes'} at lat=13.324995, lon=77.127710
+Way: yes | {'building': 'yes'} at lat=13.325275, lon=77.127541
+Way: yes | {'building': 'yes'} at lat=13.324828, lon=77.127892
+Way: yes | {'building': 'yes'} at lat=13.324847, lon=77.129250
+Way: yes | {'building': 'yes'} at lat=13.325233, lon=77.127848
+Way: yes | {'building': 'yes'} at lat=13.325471, lon=77.128125
+Way: yes | {'building': 'yes'} at lat=13.324695, lon=77.128817
+Way: yes | {'building': 'yes'} at lat=13.325253, lon=77.127720
+Way: yes | {'building': 'yes'} at lat=13.325372, lon=77.128793
+Way: yes | {'building': 'yes'} at lat=13.325131, lon=77.128255
+Way: yes | {'building': 'yes'} at lat=13.325040, lon=77.128731
+Way: yes | {'building': 'yes'} at lat=13.324695, lon=77.129214
+Way: yes | {'building': 'yes'} at lat=13.325362, lon=77.127534
+Way: yes | {'building': 'yes'} at lat=13.324671, lon=77.128242
+Way: yes | {'building': 'yes'} at lat=13.325184, lon=77.128387
+Way: yes | {'building': 'yes'} at lat=13.325034, lon=77.128392
+Way: yes | {'building': 'yes'} at lat=13.324843, lon=77.128862
+Way: yes | {'building': 'yes'} at lat=13.324834, lon=77.128019
+Way: yes | {'building': 'yes'} at lat=13.325182, lon=77.128981
+Way: yes | {'building': 'yes'} at lat=13.324617, lon=77.127831
+Way: yes | {'building': 'yes'} at lat=13.325355, lon=77.129035
+Way: yes | {'building': 'yes'} at lat=13.324294, lon=77.128573
+Way: yes | {'building': 'yes'} at lat=13.324973, lon=77.128547
+Way: yes | {'building': 'yes'} at lat=13.324817, lon=77.129027
+Way: yes | {'building': 'yes'} at lat=13.325230, lon=77.129138
+Way: yes | {'building': 'yes'} at lat=13.324132, lon=77.129109
+Way: yes | {'building': 'yes'} at lat=13.324958, lon=77.128667
+Way: yes | {'building': 'yes'} at lat=13.325122, lon=77.128581
+Way: yes | {'building': 'yes'} at lat=13.324894, lon=77.129420
+Way: yes | {'building': 'yes'} at lat=13.324713, lon=77.127904
+Way: yes | {'building': 'yes'} at lat=13.325369, lon=77.128316
+Way: yes | {'building': 'yes'} at lat=13.324688, lon=77.128162
+Way: yes | {'building': 'yes'} at lat=13.324664, lon=77.128462
+Way: yes | {'building': 'yes'} at lat=13.327880, lon=77.127796
+Way: yes | {'building': 'yes'} at lat=13.325016, lon=77.129308
+Way: yes | {'building': 'yes'} at lat=13.324462, lon=77.128153
+Way: yes | {'building': 'yes'} at lat=13.324891, lon=77.128206
+Way: yes | {'building': 'yes'} at lat=13.325442, lon=77.128331
+Way: yes | {'building': 'yes'} at lat=13.324234, lon=77.128717
+Way: yes | {'building': 'yes'} at lat=13.324395, lon=77.128918
+Way: yes | {'building': 'yes'} at lat=13.324918, lon=77.129036
+Way: yes | {'building': 'yes'} at lat=13.325071, lon=77.129097
+Way: yes | {'building': 'yes'} at lat=13.325206, lon=77.128795
+Way: yes | {'building': 'yes'} at lat=13.325135, lon=77.127722
+Way: yes | {'building': 'yes'} at lat=13.324931, lon=77.129279
+Way: yes | {'building': 'yes'} at lat=13.325404, lon=77.128636
+Way: yes | {'building': 'yes'} at lat=13.324773, lon=77.128196
+Way: yes | {'building': 'yes'} at lat=13.324868, lon=77.128657
+Way: yes | {'building': 'yes'} at lat=13.324703, lon=77.128105
+Way: yes | {'building': 'yes'} at lat=13.325344, lon=77.127716
+Way: yes | {'building': 'yes'} at lat=13.324611, lon=77.129194
+Way: yes | {'building': 'yes'} at lat=13.325316, lon=77.127882
+Way: yes | {'building': 'yes'} at lat=13.325482, lon=77.127875
+Way: yes | {'building': 'yes'} at lat=13.324528, lon=77.129174
+Way: unnamed | {'highway': 'service', 'oneway': 'yes', 'source': 'digitalglobe'} at lat=13.327235, lon=77.126056
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.327559, lon=77.125550
+Way: unnamed | {'highway': 'service', 'oneway': 'yes', 'source': 'digitalglobe'} at lat=13.327209, lon=77.126206
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.327941, lon=77.128474
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.329181, lon=77.128251
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328733, lon=77.127927
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328437, lon=77.130228
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328992, lon=77.129669
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.326930, lon=77.127945
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325633, lon=77.129637
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324838, lon=77.129152
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325083, lon=77.128492
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325007, lon=77.128831
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324392, lon=77.128674
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324695, lon=77.127947
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325108, lon=77.127378
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325175, lon=77.127645
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325486, lon=77.128175
+Way: unnamed | {'highway': 'tertiary', 'oneway': 'yes', 'source': 'digitalglobe'} at lat=13.326037, lon=77.130202
+Way: unnamed | {'highway': 'tertiary', 'oneway': 'yes'} at lat=13.326142, lon=77.130191
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325425, lon=77.124252
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324987, lon=77.124225
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.325496, lon=77.123588
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.323961, lon=77.127219
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324100, lon=77.126702
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.324072, lon=77.127267
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.323873, lon=77.130225
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.329034, lon=77.123720
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.330899, lon=77.123956
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328168, lon=77.124096
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328001, lon=77.123755
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.327736, lon=77.125162
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.327906, lon=77.125585
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328221, lon=77.125547
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328384, lon=77.125722
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.328685, lon=77.125868
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.329330, lon=77.125936
+Way: unnamed | {'highway': 'residential', 'source': 'digitalglobe'} at lat=13.329488, lon=77.126209
+Way: Computer Science Building | {'building': 'yes', 'name': 'Computer Science Building'} at lat=13.326097, lon=77.126531
+Way: Sri Shivakumara Swamiji Stadium | {'leisure': 'stadium', 'name': 'Sri Shivakumara Swamiji Stadium'} at lat=13.327073, lon=77.123362
+Way: stadium | {'building': 'stadium'} at lat=13.327375, lon=77.123918
+Way: unnamed | {'highway': 'residential', 'source': 'maxar'} at lat=13.327856, lon=77.123106
+Way: unnamed | {'highway': 'residential', 'source': 'maxar'} at lat=13.328951, lon=77.128562
+Way: unnamed | {'highway': 'residential'} at lat=13.326858, lon=77.126798
+Way: unnamed | {'highway': 'residential'} at lat=13.326620, lon=77.128057
+Way: unnamed | {'highway': 'residential'} at lat=13.326690, lon=77.125625
+Way: unnamed | {'highway': 'residential'} at lat=13.325869, lon=77.126392
+Way: unnamed | {'highway': 'footway'} at lat=13.326908, lon=77.125799
+Way: unnamed | {'highway': 'footway'} at lat=13.327381, lon=77.125523
+Way: unnamed | {'highway': 'footway'} at lat=13.326725, lon=77.125998
+Way: unnamed | {'highway': 'footway'} at lat=13.326892, lon=77.125984
+Way: unnamed | {'highway': 'footway'} at lat=13.327129, lon=77.126469
+Way: unnamed | {'highway': 'footway'} at lat=13.327051, lon=77.126782
+Way: unnamed | {'highway': 'footway'} at lat=13.326759, lon=77.126445
+Way: unnamed | {'highway': 'footway'} at lat=13.327321, lon=77.125706
+Way: unnamed | {'highway': 'footway'} at lat=13.327287, lon=77.125767
+Way: Birla Auditorium | {'amenity': 'conference_centre', 'building': 'yes', 'name': 'Birla Auditorium'} at lat=13.326841, lon=77.126619
+Way: KC Library | {'amenity': 'library', 'building': 'yes', 'name': 'KC Library'} at lat=13.327214, lon=77.125315
+Way: unnamed | {'highway': 'footway'} at lat=13.326989, lon=77.126122
+Way: Chemistry Block | {'building': 'yes', 'name': 'Chemistry Block'} at lat=13.326357, lon=77.126398
+Way: Media Centre | {'amenity': 'social_centre', 'building': 'yes', 'name': 'Media Centre'} at lat=13.325764, lon=77.126349
+Way: unnamed | {'highway': 'footway'} at lat=13.325853, lon=77.126428
+Way: unnamed | {'highway': 'residential'} at lat=13.326202, lon=77.125187
+Way: unnamed | {'highway': 'footway'} at lat=13.326137, lon=77.125508
+Way: unnamed | {'highway': 'footway'} at lat=13.326341, lon=77.125511
+Way: Civil Block | {'building': 'yes', 'name': 'Civil Block'} at lat=13.326457, lon=77.125698
+Way: unnamed | {'amenity': 'parking'} at lat=13.326191, lon=77.125735
+Way: unnamed | {'highway': 'footway'} at lat=13.326903, lon=77.125429
+Way: unnamed | {'highway': 'residential'} at lat=13.327635, lon=77.124256
+Way: unnamed | {'amenity': 'parking'} at lat=13.327659, lon=77.125099
+Way: unnamed | {'amenity': 'parking'} at lat=13.327615, lon=77.125941
+Way: unnamed | {'amenity': 'parking'} at lat=13.327709, lon=77.123926
+Way: unnamed | {'highway': 'footway'} at lat=13.327621, lon=77.123642
+Way: unnamed | {'highway': 'residential'} at lat=13.327421, lon=77.124106
+Way: unnamed | {'highway': 'footway'} at lat=13.327072, lon=77.124065
+Way: unnamed | {'highway': 'residential'} at lat=13.326345, lon=77.124540
+Way: unnamed | {'highway': 'footway'} at lat=13.326027, lon=77.124772
+Way: Dept. Of Electronics & Communication | {'building': 'yes', 'name': 'Dept. Of Electronics & Communication'} at lat=13.325929, lon=77.124513
+Way: Aminities | {'building': 'yes', 'name': 'Aminities'} at lat=13.326094, lon=77.125166
+Way: Bio Centre | {'building': 'yes', 'name': 'Bio Centre'} at lat=13.325870, lon=77.125046
+Way: Electrical Block | {'building': 'yes', 'name': 'Electrical Block'} at lat=13.326922, lon=77.124488
+Way: Workshop | {'building': 'yes', 'name': 'Workshop'} at lat=13.326171, lon=77.124462
+Way: unnamed | {'highway': 'residential'} at lat=13.327703, lon=77.124523
+Way: unnamed | {'highway': 'footway'} at lat=13.326914, lon=77.124394
+Way: unnamed | {'highway': 'footway'} at lat=13.326868, lon=77.124884
+Way: unnamed | {'highway': 'footway'} at lat=13.326563, lon=77.124757
+Way: unnamed | {'highway': 'footway'} at lat=13.326034, lon=77.125499
+Way: yes | {'amenity': 'place_of_worship', 'building': 'yes', 'religion': 'hindu'} at lat=13.328479, lon=77.126649
+Way: residential | {'building': 'residential'} at lat=13.329399, lon=77.126506
+Way: Bio Plant | {'building': 'yes', 'name': 'Bio Plant'} at lat=13.325496, lon=77.125806
+Way: SIT College Canteen | {'amenity': 'fast_food', 'building': 'yes', 'fast_food': 'cafeteria', 'name': 'SIT College Canteen'} at lat=13.325884, lon=77.126988
+Way: unnamed | {'highway': 'footway'} at lat=13.325977, lon=77.127063
+Way: Health Centre | {'healthcare': 'yes', 'name': 'Health Centre'} at lat=13.326098, lon=77.127128
+Way: unnamed | {'highway': 'footway'} at lat=13.326375, lon=77.127337
+Way: unnamed | {'highway': 'footway'} at lat=13.326302, lon=77.127912
+Way: yes | {'building': 'yes'} at lat=13.325979, lon=77.127603
+Way: yes | {'building': 'yes'} at lat=13.325288, lon=77.126717
+Way: unnamed | {'highway': 'footway'} at lat=13.327625, lon=77.125799
+Way: unnamed | {'highway': 'residential'} at lat=13.328799, lon=77.126548
+Way: yes | {'building': 'yes'} at lat=13.327939, lon=77.125867
+Way: yes | {'building': 'yes'} at lat=13.327945, lon=77.125774
+Way: yes | {'building': 'yes'} at lat=13.327953, lon=77.125677
+Way: yes | {'building': 'yes'} at lat=13.327962, lon=77.125575
+Way: yes | {'building': 'yes'} at lat=13.327969, lon=77.125478
+Way: yes | {'building': 'yes'} at lat=13.327985, lon=77.125281
+Way: yes | {'building': 'yes'} at lat=13.327990, lon=77.125185
+Way: yes | {'building': 'yes'} at lat=13.328000, lon=77.125000
+Way: yes | {'building': 'yes'} at lat=13.327995, lon=77.125094
+Way: yes | {'building': 'yes'} at lat=13.328009, lon=77.124899
+Way: yes | {'building': 'yes'} at lat=13.328014, lon=77.124804
+Way: yes | {'building': 'yes'} at lat=13.328024, lon=77.124618
+Way: yes | {'building': 'yes'} at lat=13.328019, lon=77.124712
+Way: yes | {'building': 'yes'} at lat=13.327802, lon=77.125667
+Way: yes | {'building': 'yes'} at lat=13.327806, lon=77.125567
+Way: yes | {'building': 'yes'} at lat=13.327812, lon=77.125470
+Way: yes | {'building': 'yes'} at lat=13.327818, lon=77.125369
+Way: yes | {'building': 'yes'} at lat=13.327840, lon=77.125161
+Way: yes | {'building': 'yes'} at lat=13.327858, lon=77.124890
+Way: yes | {'building': 'yes'} at lat=13.327865, lon=77.124604
+Way: yes | {'building': 'yes'} at lat=13.327859, lon=77.124698
